@@ -1,0 +1,38 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### NuxtJS ###
+# Generated dirs
+dist
+.nuxt
+.nuxt-*
+.output
+.gen
+.nitro
+.cache
+dist
+
+# Node dependencies
+node_modules
+
+### Vuejs ###
+node_modules/
+dist/
+.pnpm-store
+npm-debug.log
+yarn-error.log
+
+# Envs
+*.env
+
+# turbo
+.turbo
+
+components.d.ts
+nuxt.d.ts
+types/external
+.vscode/launch.json
+trash
